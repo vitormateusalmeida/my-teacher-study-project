@@ -1,10 +1,11 @@
 # My Teacher
-Este pequeno projeto foi desenvolvido utilizando [ReactJS](https://reactjs.org/) com [TypeScript](https://www.typescriptlang.org/) e [Next.js](https://nextjs.org/) para o Front-end e Python com Django e Django Rest Framework para o Back-end e API, seguindo um treinamento gratuito (Semana React Python) promovido pela [Treinaweb](https://www.treinaweb.com.br) a fim de praticar alguns conceitos e ter alguma experiência prática em uma nova linguagem(Python).
+Este pequeno projeto foi desenvolvido utilizando [ReactJS](https://reactjs.org/) com [TypeScript](https://www.typescriptlang.org/) e [Next.js](https://nextjs.org/) para o Front-end e [Python](https://www.python.org/) com [Django](https://www.djangoproject.com/) e [Django Rest Framework](https://www.django-rest-framework.org/) para o Back-end e API, seguindo um treinamento gratuito (Semana React Python) promovido pela [Treinaweb](https://www.treinaweb.com.br) a fim de praticar alguns conceitos e ter alguma experiência prática em uma nova linguagem(Python).
 Ao invés de seguir apenas o que proposto pelo treinamento, tomei a liberdade de praticar alguns conceitos como Atomic Design, também adicionei ESLint, Stylelint, Prettier e configurações do editor, padronizando a escrita de código.
 
-A aplicação é simples mas foi possível praticar os conceitos e experimentar a linguágem Python a qual ainda não havia trabalhado.
+A aplicação é simples mas foi possível praticar os conceitos e experimentar a linguágem Python com a qual ainda não havia trabalhado.
 
 ## Front-end
+* Install with `npm install`
 * Run with `npm run dev`
 
 ## Back-end
